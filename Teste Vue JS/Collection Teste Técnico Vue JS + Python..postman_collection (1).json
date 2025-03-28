@@ -1,0 +1,199 @@
+{
+	"info": {
+		"_postman_id": "35e0c0d7-105d-4e2a-b73d-7ff094b56d86",
+		"name": "Collection Teste Técnico Vue JS + Python.",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "43569284"
+	},
+	"item": [
+		{
+			"name": "New request",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": ""
+				}
+			},
+			"response": [
+				{
+					"name": "New request",
+					"originalRequest": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "http://localhost:8000/buscar?q=423092",
+							"protocol": "http",
+							"host": [
+								"localhost"
+							],
+							"port": "8000",
+							"path": [
+								"buscar"
+							],
+							"query": [
+								{
+									"key": "q",
+									"value": "423092"
+								}
+							]
+						}
+					},
+					"status": "OK",
+					"code": 200,
+					"_postman_previewlanguage": "JSON",
+					"header": [
+						{
+							"key": "date",
+							"value": "Fri, 28 Mar 2025 18:48:09 GMT",
+							"type": "text"
+						},
+						{
+							"key": "server",
+							"value": "uvicorn",
+							"type": "text"
+						},
+						{
+							"key": "content-length",
+							"value": "358",
+							"type": "text"
+						},
+						{
+							"key": "content-type",
+							"value": "application/json",
+							"type": "text"
+						}
+					],
+					"cookie": [],
+					"body": "[\n    {\n        \"CNPJ\": 43227118000160,\n        \"Razao_Social\": \"YOU ODONTO LTDA.\",\n        \"Nome_Fantasia\": \"YOU ODONTO \",\n        \"Modalidade\": \"Odontologia de Grupo\",\n        \"Representante\": \"RODRIGO SILVA FELIPE\",\n        \"Numero\": \"220.0\",\n        \"Complemento\": \"Sala 11S\",\n        \"Bairro\": \"Vila da Serra\",\n        \"Cidade\": \"Nova Lima\",\n        \"UF\": \"MG\",\n        \"CEP\": 34006059,\n        \"Telefone\": 983688989,\n        \"Endereco_eletronico\": \"felipe.gomes@campellogomes.com.br\"\n    }\n]"
+				}
+			]
+		},
+		{
+			"name": "New request",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": ""
+				}
+			},
+			"response": [
+				{
+					"name": "New request",
+					"originalRequest": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "http://localhost:8000/buscar?q=419761",
+							"protocol": "http",
+							"host": [
+								"localhost"
+							],
+							"port": "8000",
+							"path": [
+								"buscar"
+							],
+							"query": [
+								{
+									"key": "q",
+									"value": "419761"
+								}
+							]
+						}
+					},
+					"status": "OK",
+					"code": 200,
+					"_postman_previewlanguage": "JSON",
+					"header": [
+						{
+							"key": "date",
+							"value": "Fri, 28 Mar 2025 18:48:46 GMT",
+							"type": "text"
+						},
+						{
+							"key": "server",
+							"value": "uvicorn",
+							"type": "text"
+						},
+						{
+							"key": "content-length",
+							"value": "400",
+							"type": "text"
+						},
+						{
+							"key": "content-type",
+							"value": "application/json",
+							"type": "text"
+						}
+					],
+					"cookie": [],
+					"body": "[\n    {\n        \"CNPJ\": 19541931000125,\n        \"Razao_Social\": \"18 DE JULHO ADMINISTRADORA DE BENEFÍCIOS LTDA\",\n        \"Nome_Fantasia\": \"\",\n        \"Modalidade\": \"Administradora de Benefícios\",\n        \"Representante\": \"LUIZ HENRIQUE MARENDINO GONÇALVES\",\n        \"Numero\": \"274\",\n        \"Complemento\": \"\",\n        \"Bairro\": \"PRAÇA DA BANDEIRA\",\n        \"Cidade\": \"Além Paraíba\",\n        \"UF\": \"MG\",\n        \"CEP\": 36660000,\n        \"Telefone\": 34624649,\n        \"Endereco_eletronico\": \"contabilidade@cbnassessoria.com.br\"\n    }\n]"
+				}
+			]
+		},
+		{
+			"name": "New request",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": ""
+				}
+			},
+			"response": [
+				{
+					"name": "New request",
+					"originalRequest": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "http://localhost:8000/buscar?q=421545",
+							"protocol": "http",
+							"host": [
+								"localhost"
+							],
+							"port": "8000",
+							"path": [
+								"buscar"
+							],
+							"query": [
+								{
+									"key": "q",
+									"value": "421545"
+								}
+							]
+						}
+					},
+					"status": "OK",
+					"code": 200,
+					"_postman_previewlanguage": "JSON",
+					"header": [
+						{
+							"key": "date",
+							"value": "Fri, 28 Mar 2025 18:49:03 GMT",
+							"type": "text"
+						},
+						{
+							"key": "server",
+							"value": "uvicorn",
+							"type": "text"
+						},
+						{
+							"key": "content-length",
+							"value": "363",
+							"type": "text"
+						},
+						{
+							"key": "content-type",
+							"value": "application/json",
+							"type": "text"
+						}
+					],
+					"cookie": [],
+					"body": "[\n    {\n        \"CNPJ\": 22869997000153,\n        \"Razao_Social\": \"2B ODONTOLOGIA OPERADORA DE PLANOS ODONTOLÓGICOS LTDA\",\n        \"Nome_Fantasia\": \"\",\n        \"Modalidade\": \"Odontologia de Grupo\",\n        \"Representante\": \"MARISOL BECHELLI\",\n        \"Numero\": \"128\",\n        \"Complemento\": \"SALA 126\",\n        \"Bairro\": \"VILA ROMANA\",\n        \"Cidade\": \"São Paulo\",\n        \"UF\": \"SP\",\n        \"CEP\": 5049000,\n        \"Telefone\": 34415852,\n        \"Endereco_eletronico\": \"labmarisol@gmail.com\"\n    }\n]"
+				}
+			]
+		}
+	]
+}
