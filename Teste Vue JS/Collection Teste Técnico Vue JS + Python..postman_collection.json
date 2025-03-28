@@ -1,0 +1,43 @@
+{
+	"info": {
+		"_postman_id": "35e0c0d7-105d-4e2a-b73d-7ff094b56d86",
+		"name": "Collection Teste Técnico Vue JS + Python.",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "43569284"
+	},
+	"item": [
+		{
+			"name": "New request",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": ""
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "New request",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": ""
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "New request",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": ""
+				}
+			},
+			"response": []
+		}
+	]
+}
